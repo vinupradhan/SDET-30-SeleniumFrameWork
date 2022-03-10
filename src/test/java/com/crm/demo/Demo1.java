@@ -7,5 +7,7 @@ public class Demo1 {
 	@Test
 	public void Demo()  {
 		System.out.println("User 1 Commit");
+		
+		System.out.println("User 2 Commit");
 	}
 }
