@@ -10,6 +10,8 @@ public class GitTest {
 		System.out.println("User 1 First Commit");
 		
 		System.out.println("User 2 - First Commit");
+		
+		System.out.println("Code Final");
 	}
 	
 }
