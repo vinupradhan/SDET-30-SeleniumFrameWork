@@ -10,8 +10,8 @@ public class Demo1 {
 		
 		System.out.println("User 2 Commit");
 		
-		
-		
 		System.out.println("User 3 Commit");
+		
+		System.out.println("work space 1 conflict");
 	}
 }
