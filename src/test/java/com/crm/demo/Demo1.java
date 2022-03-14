@@ -14,5 +14,7 @@ public class Demo1 {
 		
 		System.out.println("work space 1 conflict");
 		System.out.println("work space 1 conflict resolve");
+		
+		System.out.println("commit 2");
 	}
 }
