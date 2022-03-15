@@ -1,4 +1,4 @@
-package GitDemo;
+package GitDemoTest;
 
 import org.testng.annotations.Test;
 
@@ -15,12 +15,6 @@ public class GitTest {
 		
 		
 		System.out.println("Code Not Final");
-		
-		
-		
-		
-		
-		
 	}
 	
 }

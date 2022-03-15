@@ -1,4 +1,4 @@
-package GitDemo;
+package GitDemoTest;
 
 import java.util.concurrent.TimeUnit;
 
@@ -39,5 +39,9 @@ public class CreateProductTest {
 		driver.findElement(By.linkText("Sign Out")).click();
 		
 		driver.quit();
+		
+		
+		
+		
 	}
 }
